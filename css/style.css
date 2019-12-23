@@ -1,0 +1,35 @@
+.leftbox {
+	width: 12rem;
+	top: 3.5rem;
+	bottom: 0;
+	margin-bottom: 0;
+	background: #283643;
+	color: #fff;
+}
+.leftbox a {
+	padding: 0 2rem;
+	height: 3rem;
+	line-height: 3rem;
+	color:#fff;
+}
+.leftbox a:hover{
+	color: #fff;
+	background: #3c4248;
+}
+.leftbox .active {
+	color: #fff;
+	background: #3c4248;
+}
+.rightbox {
+	top: 3.5rem;
+	bottom: 0;
+	left: 12rem;
+	right: 0;
+	overflow: auto;
+}
+h6 {
+	height: 3rem;
+	line-height: 3rem;
+	color: #6c757d;
+	border-bottom: 2px solid #e9ecef;
+}
